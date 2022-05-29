@@ -1,5 +1,5 @@
-# vue3-element-admin
-
+# element-plus-admin
+基于element-plus搭建的后台管理UI
 ## Project setup
 ```
 npm install
