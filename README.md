@@ -1,7 +1,8 @@
 # element-plus-admin
-基于element-plus搭建的后台管理UI
-该模板使用无状态权限管理token认证
-须准备api接口数据
+基于element-plus搭建的后台管理UI<br>
+该模板使用无状态权限管理token认证<br>
+该模板有最基本的权限UI和全局配置UI<br>
+须准备下列api接口数据<br>
 ## 验证码获取接口
 GET  /api/login/captcha
 ### 请求数据(无)
