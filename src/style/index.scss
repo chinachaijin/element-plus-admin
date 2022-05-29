@@ -1,0 +1,32 @@
+@import './variables.scss';
+
+body {
+  height: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  font-family: Helvetica Neue, Helvetica, PingFang SC, Hiragino Sans GB, Microsoft YaHei, Arial, sans-serif;
+}
+
+html {
+  height: 100%;
+  box-sizing: border-box;
+}
+
+#app {
+  height: 100%;
+}
+a {
+  cursor: pointer;
+  color: inherit;
+  text-decoration: none;
+}
+.el-menu-item .el-icon{
+  margin-right: 16px;
+}
+.el-sub-menu__title .el-icon{
+  margin-right: 16px;
+}
+.el-pagination-top {
+  margin-top: 20px;
+}
